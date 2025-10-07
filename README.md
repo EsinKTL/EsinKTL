@@ -65,8 +65,3 @@ Long-term goals include pursuing a **Master’s degree at a top international un
 - Entrepreneurship & innovation: ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-50%25-yellow)  
 - Launching projects & competitions: ![Projects](https://img.shields.io/badge/Competitions-45%25-lightgrey)  
 - Quantum computing expertise: ![Quantum](https://img.shields.io/badge/Quantum-25%25-purple)  
-
----
-
-## GitHub Activity
-![Esin's GitHub activity](https://github-readme-activity-graph.cyclic.app/graph?username=EsinKutlu&theme=react-dark&hide_border=false)
