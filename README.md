@@ -151,11 +151,4 @@ Each project is designed as an exploration of **system behavior under constraint
 
 ---
 
-## 📫 Contact
-
-GitHub: https://github.com/EsinKTL  
-LinkedIn: *add link here*  
-
----
-
 > “I am interested in systems that not only work, but behave predictably, efficiently, and explainably under constraint.”
